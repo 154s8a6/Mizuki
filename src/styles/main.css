@@ -29,7 +29,7 @@
 /* 导入 方正FW筑紫A圆 简 B 字体 */
 @font-face {
   font-family: "方正FW筑紫A圆";
-  src: url("/assets/font/方正FW筑紫A圆 简 B.woff2") format("woff2");
+  src: url("/assets/font/方正FW筑紫A圆简B.woff2") format("woff2");
   font-style: normal;
   font-weight: 400;
   font-display: swap;
